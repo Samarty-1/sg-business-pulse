@@ -1,0 +1,8 @@
+dagster>=1.13,<1.14
+dagster-webserver>=1.13,<1.14
+duckdb>=2.0,<3
+pandas>=3.0
+pyarrow>=20
+requests>=2.32
+matplotlib>=3.10
+pytest>=8

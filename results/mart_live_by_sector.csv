@@ -1,0 +1,1428 @@
+postal_sector,industry,live_entities
+01,Accommodation and food services,3
+01,Administrative and support services,202
+01,Arts and recreation,32
+01,Construction,13
+01,Education,63
+01,"Electricity, gas and air-con supply",11
+01,Finance and insurance,3368
+01,Food and beverage,106
+01,Health and social services,33
+01,Information and communications,486
+01,Manufacturing,64
+01,Other services,60
+01,"Professional, scientific and technical",768
+01,Real estate,80
+01,Transport and storage,260
+01,Unclassified,16
+01,Water supply and waste management,2
+01,Wholesale and retail trade,570
+03,Accommodation and food services,20
+03,Administrative and support services,326
+03,Arts and recreation,80
+03,Construction,89
+03,Education,236
+03,"Electricity, gas and air-con supply",22
+03,Finance and insurance,1994
+03,Food and beverage,145
+03,Health and social services,102
+03,Information and communications,1075
+03,Manufacturing,109
+03,Other services,131
+03,"Professional, scientific and technical",1554
+03,Public administration,1
+03,Real estate,171
+03,Transport and storage,747
+03,Unclassified,9
+03,Water supply and waste management,10
+03,Wholesale and retail trade,1407
+04,Accommodation and food services,65
+04,Administrative and support services,1132
+04,Arts and recreation,223
+04,Construction,270
+04,Education,527
+04,"Electricity, gas and air-con supply",97
+04,Finance and insurance,11052
+04,Food and beverage,504
+04,Health and social services,240
+04,Information and communications,5862
+04,Manufacturing,597
+04,Other services,391
+04,"Professional, scientific and technical",7415
+04,Public administration,2
+04,Real estate,623
+04,Transport and storage,1309
+04,Unclassified,90
+04,Water supply and waste management,35
+04,Wholesale and retail trade,5886
+05,Accommodation and food services,60
+05,Administrative and support services,615
+05,Arts and recreation,188
+05,Construction,302
+05,Education,384
+05,"Electricity, gas and air-con supply",23
+05,Finance and insurance,1863
+05,Food and beverage,686
+05,Health and social services,270
+05,Information and communications,1538
+05,Manufacturing,351
+05,Other services,840
+05,"Professional, scientific and technical",3195
+05,Real estate,287
+05,Transport and storage,481
+05,Unclassified,31
+05,Water supply and waste management,10
+05,Wholesale and retail trade,3493
+06,Accommodation and food services,42
+06,Administrative and support services,1057
+06,Arts and recreation,271
+06,Construction,324
+06,Education,639
+06,"Electricity, gas and air-con supply",65
+06,Finance and insurance,10291
+06,Food and beverage,695
+06,Health and social services,325
+06,Information and communications,6482
+06,Manufacturing,753
+06,Other services,410
+06,"Professional, scientific and technical",8569
+06,Real estate,471
+06,Transport and storage,1564
+06,Unclassified,101
+06,Water supply and waste management,21
+06,Wholesale and retail trade,7726
+07,Accommodation and food services,35
+07,Administrative and support services,700
+07,Arts and recreation,125
+07,Construction,570
+07,Education,485
+07,"Electricity, gas and air-con supply",31
+07,Finance and insurance,2863
+07,Food and beverage,349
+07,Health and social services,255
+07,Information and communications,2433
+07,Manufacturing,489
+07,Other services,342
+07,"Professional, scientific and technical",4193
+07,Public administration,2
+07,Real estate,321
+07,Transport and storage,1169
+07,Unclassified,61
+07,Water supply and waste management,29
+07,Wholesale and retail trade,4869
+08,Accommodation and food services,16
+08,Administrative and support services,197
+08,Arts and recreation,117
+08,Construction,90
+08,Education,142
+08,"Electricity, gas and air-con supply",10
+08,Finance and insurance,1182
+08,Food and beverage,446
+08,Health and social services,112
+08,Information and communications,747
+08,Manufacturing,127
+08,Other services,220
+08,"Professional, scientific and technical",1281
+08,Real estate,83
+08,Transport and storage,516
+08,Unclassified,8
+08,Water supply and waste management,9
+08,Wholesale and retail trade,984
+09,Accommodation and food services,33
+09,Administrative and support services,134
+09,Arts and recreation,99
+09,Construction,68
+09,Education,98
+09,"Electricity, gas and air-con supply",14
+09,Finance and insurance,961
+09,Food and beverage,172
+09,Health and social services,68
+09,Information and communications,302
+09,Manufacturing,107
+09,Other services,113
+09,"Professional, scientific and technical",637
+09,Real estate,69
+09,Transport and storage,281
+09,Unclassified,24
+09,Water supply and waste management,6
+09,Wholesale and retail trade,642
+10,Accommodation and food services,1
+10,Administrative and support services,55
+10,Arts and recreation,26
+10,Construction,44
+10,Education,75
+10,Finance and insurance,56
+10,Food and beverage,77
+10,Health and social services,34
+10,Information and communications,123
+10,Manufacturing,52
+10,Other services,69
+10,"Professional, scientific and technical",223
+10,Real estate,15
+10,Transport and storage,49
+10,Unclassified,1
+10,Water supply and waste management,3
+10,Wholesale and retail trade,289
+11,Accommodation and food services,14
+11,Administrative and support services,148
+11,Arts and recreation,57
+11,Construction,130
+11,Education,136
+11,"Electricity, gas and air-con supply",15
+11,Finance and insurance,1422
+11,Food and beverage,220
+11,Health and social services,83
+11,Information and communications,457
+11,Manufacturing,213
+11,Other services,96
+11,"Professional, scientific and technical",786
+11,Real estate,159
+11,Transport and storage,592
+11,Unclassified,20
+11,Water supply and waste management,8
+11,Wholesale and retail trade,1172
+12,Accommodation and food services,4
+12,Administrative and support services,256
+12,Arts and recreation,90
+12,Construction,342
+12,Education,349
+12,"Electricity, gas and air-con supply",5
+12,Finance and insurance,400
+12,Food and beverage,417
+12,Health and social services,187
+12,Information and communications,549
+12,Manufacturing,459
+12,Other services,432
+12,"Professional, scientific and technical",915
+12,Real estate,104
+12,Transport and storage,509
+12,Unclassified,10
+12,Water supply and waste management,8
+12,Wholesale and retail trade,2017
+13,Accommodation and food services,7
+13,Administrative and support services,135
+13,Arts and recreation,54
+13,Construction,66
+13,Education,231
+13,"Electricity, gas and air-con supply",7
+13,Finance and insurance,713
+13,Food and beverage,156
+13,Health and social services,91
+13,Information and communications,665
+13,Manufacturing,190
+13,Other services,84
+13,"Professional, scientific and technical",912
+13,Public administration,1
+13,Real estate,66
+13,Transport and storage,197
+13,Unclassified,7
+13,Water supply and waste management,4
+13,Wholesale and retail trade,601
+14,Accommodation and food services,4
+14,Administrative and support services,167
+14,Arts and recreation,48
+14,Construction,179
+14,Education,169
+14,"Electricity, gas and air-con supply",4
+14,Finance and insurance,189
+14,Food and beverage,180
+14,Health and social services,103
+14,Households as employers,1
+14,Information and communications,266
+14,Manufacturing,147
+14,Other services,163
+14,"Professional, scientific and technical",578
+14,Real estate,63
+14,Transport and storage,124
+14,Unclassified,5
+14,Water supply and waste management,4
+14,Wholesale and retail trade,869
+15,Accommodation and food services,10
+15,Administrative and support services,409
+15,Arts and recreation,84
+15,Construction,408
+15,Education,295
+15,"Electricity, gas and air-con supply",6
+15,Finance and insurance,935
+15,Food and beverage,417
+15,Health and social services,174
+15,Information and communications,672
+15,Manufacturing,339
+15,Other services,400
+15,"Professional, scientific and technical",1320
+15,Public administration,1
+15,Real estate,209
+15,Transport and storage,325
+15,Unclassified,29
+15,Water supply and waste management,5
+15,Wholesale and retail trade,2196
+16,Accommodation and food services,24
+16,Administrative and support services,425
+16,Arts and recreation,126
+16,Construction,299
+16,Education,340
+16,"Electricity, gas and air-con supply",6
+16,Finance and insurance,830
+16,Food and beverage,476
+16,Health and social services,208
+16,Information and communications,699
+16,Manufacturing,279
+16,Other services,342
+16,"Professional, scientific and technical",1603
+16,Real estate,181
+16,Transport and storage,363
+16,Unclassified,15
+16,Water supply and waste management,1
+16,Wholesale and retail trade,1975
+17,Accommodation and food services,27
+17,Administrative and support services,540
+17,Arts and recreation,153
+17,Construction,374
+17,Education,344
+17,"Electricity, gas and air-con supply",24
+17,Finance and insurance,1961
+17,Food and beverage,275
+17,Health and social services,181
+17,Households as employers,1
+17,Information and communications,1768
+17,Manufacturing,341
+17,Other services,305
+17,"Professional, scientific and technical",2987
+17,Real estate,226
+17,Transport and storage,553
+17,Unclassified,51
+17,Water supply and waste management,8
+17,Wholesale and retail trade,3837
+18,Accommodation and food services,70
+18,Administrative and support services,701
+18,Arts and recreation,271
+18,Construction,398
+18,Education,541
+18,"Electricity, gas and air-con supply",36
+18,Finance and insurance,3769
+18,Food and beverage,693
+18,Health and social services,269
+18,Information and communications,2975
+18,Manufacturing,640
+18,Other services,760
+18,"Professional, scientific and technical",4372
+18,Public administration,1
+18,Real estate,323
+18,Transport and storage,746
+18,Unclassified,56
+18,Water supply and waste management,32
+18,Wholesale and retail trade,5850
+19,Accommodation and food services,29
+19,Administrative and support services,550
+19,Arts and recreation,160
+19,Construction,539
+19,Education,230
+19,"Electricity, gas and air-con supply",11
+19,Finance and insurance,834
+19,Food and beverage,578
+19,Health and social services,113
+19,Information and communications,810
+19,Manufacturing,275
+19,Other services,519
+19,"Professional, scientific and technical",1634
+19,Real estate,239
+19,Transport and storage,428
+19,Unclassified,29
+19,Water supply and waste management,7
+19,Wholesale and retail trade,2449
+20,Accommodation and food services,78
+20,Administrative and support services,619
+20,Arts and recreation,171
+20,Construction,1355
+20,Education,284
+20,"Electricity, gas and air-con supply",6
+20,Finance and insurance,631
+20,Food and beverage,801
+20,Health and social services,138
+20,Information and communications,761
+20,Manufacturing,336
+20,Other services,495
+20,"Professional, scientific and technical",1497
+20,Real estate,194
+20,Transport and storage,578
+20,Unclassified,14
+20,Water supply and waste management,9
+20,Wholesale and retail trade,2814
+21,Accommodation and food services,22
+21,Administrative and support services,214
+21,Arts and recreation,79
+21,Construction,513
+21,Education,94
+21,"Electricity, gas and air-con supply",1
+21,Finance and insurance,185
+21,Food and beverage,355
+21,Health and social services,216
+21,Households as employers,1
+21,Information and communications,243
+21,Manufacturing,133
+21,Other services,257
+21,"Professional, scientific and technical",415
+21,Real estate,105
+21,Transport and storage,183
+21,Unclassified,3
+21,Water supply and waste management,6
+21,Wholesale and retail trade,1355
+22,Accommodation and food services,36
+22,Administrative and support services,203
+22,Arts and recreation,125
+22,Construction,70
+22,Education,211
+22,"Electricity, gas and air-con supply",9
+22,Finance and insurance,1002
+22,Food and beverage,299
+22,Health and social services,503
+22,Information and communications,450
+22,Manufacturing,141
+22,Other services,446
+22,"Professional, scientific and technical",1027
+22,Real estate,243
+22,Transport and storage,117
+22,Unclassified,16
+22,Water supply and waste management,3
+22,Wholesale and retail trade,1212
+23,Accommodation and food services,46
+23,Administrative and support services,471
+23,Arts and recreation,235
+23,Construction,93
+23,Education,542
+23,"Electricity, gas and air-con supply",20
+23,Finance and insurance,2884
+23,Food and beverage,639
+23,Health and social services,683
+23,Households as employers,2
+23,Information and communications,1093
+23,Manufacturing,259
+23,Other services,816
+23,"Professional, scientific and technical",2225
+23,Public administration,1
+23,Real estate,332
+23,Transport and storage,391
+23,Unclassified,21
+23,Water supply and waste management,14
+23,Wholesale and retail trade,2498
+24,Accommodation and food services,15
+24,Administrative and support services,55
+24,Arts and recreation,67
+24,Construction,22
+24,Education,115
+24,"Electricity, gas and air-con supply",2
+24,Finance and insurance,445
+24,Food and beverage,136
+24,Health and social services,191
+24,Information and communications,149
+24,Manufacturing,50
+24,Other services,272
+24,"Professional, scientific and technical",462
+24,Real estate,52
+24,Transport and storage,31
+24,Unclassified,2
+24,Water supply and waste management,3
+24,Wholesale and retail trade,341
+25,Accommodation and food services,5
+25,Administrative and support services,61
+25,Arts and recreation,29
+25,Construction,28
+25,Education,182
+25,"Electricity, gas and air-con supply",3
+25,Finance and insurance,560
+25,Food and beverage,77
+25,Health and social services,297
+25,Information and communications,134
+25,Manufacturing,36
+25,Other services,52
+25,"Professional, scientific and technical",515
+25,Real estate,108
+25,Transport and storage,18
+25,Unclassified,5
+25,Water supply and waste management,1
+25,Wholesale and retail trade,310
+26,Accommodation and food services,4
+26,Administrative and support services,57
+26,Arts and recreation,30
+26,Construction,22
+26,Education,193
+26,"Electricity, gas and air-con supply",1
+26,Finance and insurance,339
+26,Food and beverage,72
+26,Health and social services,110
+26,Information and communications,141
+26,Manufacturing,50
+26,Other services,63
+26,"Professional, scientific and technical",427
+26,Real estate,69
+26,Transport and storage,23
+26,Unclassified,3
+26,Water supply and waste management,2
+26,Wholesale and retail trade,375
+27,Accommodation and food services,3
+27,Administrative and support services,100
+27,Arts and recreation,61
+27,Construction,57
+27,Education,206
+27,"Electricity, gas and air-con supply",2
+27,Finance and insurance,309
+27,Food and beverage,227
+27,Health and social services,130
+27,Information and communications,293
+27,Manufacturing,88
+27,Other services,187
+27,"Professional, scientific and technical",611
+27,Real estate,62
+27,Transport and storage,68
+27,Unclassified,6
+27,Wholesale and retail trade,583
+28,Accommodation and food services,3
+28,Administrative and support services,28
+28,Arts and recreation,28
+28,Construction,15
+28,Education,87
+28,Finance and insurance,164
+28,Food and beverage,53
+28,Health and social services,56
+28,Information and communications,79
+28,Manufacturing,25
+28,Other services,19
+28,"Professional, scientific and technical",250
+28,Real estate,23
+28,Transport and storage,13
+28,Unclassified,3
+28,Wholesale and retail trade,168
+29,Accommodation and food services,1
+29,Administrative and support services,35
+29,Arts and recreation,13
+29,Construction,9
+29,Education,71
+29,Finance and insurance,208
+29,Food and beverage,41
+29,Health and social services,49
+29,Households as employers,1
+29,Information and communications,64
+29,Manufacturing,19
+29,Other services,19
+29,"Professional, scientific and technical",196
+29,Public administration,1
+29,Real estate,18
+29,Transport and storage,12
+29,Unclassified,1
+29,Water supply and waste management,1
+29,Wholesale and retail trade,135
+30,Accommodation and food services,22
+30,Administrative and support services,207
+30,Arts and recreation,51
+30,Construction,129
+30,Education,261
+30,"Electricity, gas and air-con supply",3
+30,Finance and insurance,1218
+30,Food and beverage,133
+30,Health and social services,353
+30,Information and communications,736
+30,Manufacturing,123
+30,Other services,153
+30,"Professional, scientific and technical",1430
+30,Real estate,213
+30,Transport and storage,133
+30,Unclassified,9
+30,Water supply and waste management,5
+30,Wholesale and retail trade,1282
+31,Accommodation and food services,1
+31,Administrative and support services,293
+31,Arts and recreation,82
+31,Construction,559
+31,Education,301
+31,"Electricity, gas and air-con supply",3
+31,Finance and insurance,275
+31,Food and beverage,368
+31,Health and social services,188
+31,Information and communications,489
+31,Manufacturing,372
+31,Other services,538
+31,"Professional, scientific and technical",741
+31,Real estate,136
+31,Transport and storage,217
+31,Unclassified,1
+31,Water supply and waste management,5
+31,Wholesale and retail trade,1460
+32,Accommodation and food services,38
+32,Administrative and support services,274
+32,Arts and recreation,94
+32,Construction,546
+32,Education,208
+32,"Electricity, gas and air-con supply",4
+32,Finance and insurance,376
+32,Food and beverage,324
+32,Health and social services,508
+32,Information and communications,430
+32,Manufacturing,215
+32,Other services,321
+32,"Professional, scientific and technical",849
+32,Real estate,163
+32,Transport and storage,234
+32,Unclassified,8
+32,Water supply and waste management,6
+32,Wholesale and retail trade,1492
+33,Accommodation and food services,11
+33,Administrative and support services,339
+33,Arts and recreation,95
+33,Construction,540
+33,Education,142
+33,"Electricity, gas and air-con supply",5
+33,Finance and insurance,830
+33,Food and beverage,347
+33,Health and social services,104
+33,Information and communications,763
+33,Manufacturing,484
+33,Other services,293
+33,"Professional, scientific and technical",1224
+33,Real estate,148
+33,Transport and storage,222
+33,Unclassified,15
+33,Water supply and waste management,3
+33,Wholesale and retail trade,1653
+34,Accommodation and food services,9
+34,Administrative and support services,313
+34,Arts and recreation,61
+34,Construction,772
+34,Education,172
+34,"Electricity, gas and air-con supply",21
+34,Finance and insurance,403
+34,Food and beverage,188
+34,Health and social services,62
+34,Information and communications,552
+34,Manufacturing,525
+34,Other services,147
+34,"Professional, scientific and technical",808
+34,Public administration,1
+34,Real estate,157
+34,Transport and storage,241
+34,Unclassified,15
+34,Water supply and waste management,6
+34,Wholesale and retail trade,1900
+35,Accommodation and food services,8
+35,Administrative and support services,65
+35,Arts and recreation,26
+35,Construction,63
+35,Education,92
+35,Finance and insurance,94
+35,Food and beverage,67
+35,Health and social services,49
+35,Information and communications,119
+35,Manufacturing,48
+35,Other services,63
+35,"Professional, scientific and technical",221
+35,Real estate,58
+35,Transport and storage,43
+35,Unclassified,4
+35,Water supply and waste management,3
+35,Wholesale and retail trade,315
+36,Accommodation and food services,19
+36,Administrative and support services,399
+36,Arts and recreation,89
+36,Construction,726
+36,Education,225
+36,"Electricity, gas and air-con supply",8
+36,Finance and insurance,774
+36,Food and beverage,459
+36,Health and social services,96
+36,Information and communications,765
+36,Manufacturing,408
+36,Other services,206
+36,"Professional, scientific and technical",1318
+36,Real estate,196
+36,Transport and storage,279
+36,Unclassified,19
+36,Water supply and waste management,9
+36,Wholesale and retail trade,2111
+37,Accommodation and food services,3
+37,Administrative and support services,52
+37,Arts and recreation,14
+37,Construction,94
+37,Education,44
+37,"Electricity, gas and air-con supply",1
+37,Finance and insurance,7
+37,Food and beverage,70
+37,Health and social services,24
+37,Information and communications,54
+37,Manufacturing,46
+37,Other services,66
+37,"Professional, scientific and technical",91
+37,Real estate,11
+37,Transport and storage,50
+37,Unclassified,1
+37,Water supply and waste management,3
+37,Wholesale and retail trade,298
+38,Accommodation and food services,41
+38,Administrative and support services,463
+38,Arts and recreation,115
+38,Construction,1397
+38,Education,236
+38,"Electricity, gas and air-con supply",10
+38,Finance and insurance,437
+38,Food and beverage,652
+38,Health and social services,178
+38,Information and communications,673
+38,Manufacturing,644
+38,Other services,600
+38,"Professional, scientific and technical",1213
+38,Public administration,1
+38,Real estate,265
+38,Transport and storage,312
+38,Unclassified,10
+38,Water supply and waste management,20
+38,Wholesale and retail trade,2537
+39,Accommodation and food services,65
+39,Administrative and support services,112
+39,Arts and recreation,62
+39,Construction,231
+39,Education,157
+39,"Electricity, gas and air-con supply",1
+39,Finance and insurance,97
+39,Food and beverage,123
+39,Health and social services,64
+39,Information and communications,156
+39,Manufacturing,63
+39,Other services,114
+39,"Professional, scientific and technical",314
+39,Real estate,55
+39,Transport and storage,57
+39,Unclassified,2
+39,Water supply and waste management,2
+39,Wholesale and retail trade,467
+40,Accommodation and food services,59
+40,Administrative and support services,2143
+40,Arts and recreation,313
+40,Construction,3721
+40,Education,1397
+40,"Electricity, gas and air-con supply",57
+40,Finance and insurance,3315
+40,Food and beverage,1078
+40,Health and social services,520
+40,Households as employers,1
+40,Information and communications,6560
+40,Manufacturing,2446
+40,Other services,1130
+40,"Professional, scientific and technical",8486
+40,Public administration,2
+40,Real estate,673
+40,Transport and storage,1609
+40,Unclassified,61
+40,Water supply and waste management,46
+40,Wholesale and retail trade,12232
+41,Accommodation and food services,15
+41,Administrative and support services,648
+41,Arts and recreation,94
+41,Construction,1485
+41,Education,356
+41,"Electricity, gas and air-con supply",13
+41,Finance and insurance,844
+41,Food and beverage,480
+41,Health and social services,138
+41,Information and communications,861
+41,Manufacturing,1074
+41,Other services,976
+41,"Professional, scientific and technical",1433
+41,Public administration,1
+41,Real estate,211
+41,Transport and storage,546
+41,Unclassified,20
+41,Water supply and waste management,34
+41,Wholesale and retail trade,4061
+42,Accommodation and food services,20
+42,Administrative and support services,241
+42,Arts and recreation,141
+42,Construction,320
+42,Education,335
+42,"Electricity, gas and air-con supply",2
+42,Finance and insurance,414
+42,Food and beverage,373
+42,Health and social services,207
+42,Households as employers,1
+42,Information and communications,446
+42,Manufacturing,190
+42,Other services,384
+42,"Professional, scientific and technical",1105
+42,Real estate,173
+42,Transport and storage,111
+42,Unclassified,11
+42,Water supply and waste management,4
+42,Wholesale and retail trade,1316
+43,Accommodation and food services,3
+43,Administrative and support services,224
+43,Arts and recreation,108
+43,Construction,123
+43,Education,260
+43,"Electricity, gas and air-con supply",6
+43,Finance and insurance,471
+43,Food and beverage,183
+43,Health and social services,119
+43,Information and communications,325
+43,Manufacturing,114
+43,Other services,176
+43,"Professional, scientific and technical",842
+43,Real estate,118
+43,Transport and storage,97
+43,Unclassified,5
+43,Water supply and waste management,3
+43,Wholesale and retail trade,913
+44,Accommodation and food services,10
+44,Administrative and support services,90
+44,Arts and recreation,35
+44,Construction,64
+44,Education,253
+44,"Electricity, gas and air-con supply",4
+44,Finance and insurance,212
+44,Food and beverage,86
+44,Health and social services,108
+44,Information and communications,167
+44,Manufacturing,65
+44,Other services,114
+44,"Professional, scientific and technical",392
+44,Public administration,1
+44,Real estate,81
+44,Transport and storage,69
+44,Unclassified,9
+44,Wholesale and retail trade,504
+45,Accommodation and food services,1
+45,Administrative and support services,67
+45,Arts and recreation,45
+45,Construction,57
+45,Education,125
+45,Finance and insurance,202
+45,Food and beverage,92
+45,Health and social services,87
+45,Information and communications,131
+45,Manufacturing,51
+45,Other services,95
+45,"Professional, scientific and technical",383
+45,Real estate,62
+45,Transport and storage,42
+45,Unclassified,4
+45,Water supply and waste management,2
+45,Wholesale and retail trade,379
+46,Accommodation and food services,12
+46,Administrative and support services,348
+46,Arts and recreation,136
+46,Construction,427
+46,Education,424
+46,"Electricity, gas and air-con supply",3
+46,Finance and insurance,333
+46,Food and beverage,532
+46,Health and social services,202
+46,Information and communications,625
+46,Manufacturing,338
+46,Other services,619
+46,"Professional, scientific and technical",1224
+46,Real estate,140
+46,Transport and storage,374
+46,Unclassified,16
+46,Water supply and waste management,10
+46,Wholesale and retail trade,2019
+47,Accommodation and food services,1
+47,Administrative and support services,91
+47,Arts and recreation,22
+47,Construction,143
+47,Education,123
+47,"Electricity, gas and air-con supply",1
+47,Finance and insurance,64
+47,Food and beverage,111
+47,Health and social services,35
+47,Information and communications,176
+47,Manufacturing,82
+47,Other services,145
+47,"Professional, scientific and technical",307
+47,Real estate,23
+47,Transport and storage,122
+47,Unclassified,4
+47,Water supply and waste management,4
+47,Wholesale and retail trade,556
+48,Accommodation and food services,12
+48,Administrative and support services,171
+48,Arts and recreation,27
+48,Construction,431
+48,Education,104
+48,"Electricity, gas and air-con supply",3
+48,Finance and insurance,344
+48,Food and beverage,392
+48,Health and social services,38
+48,Information and communications,224
+48,Manufacturing,622
+48,Other services,139
+48,"Professional, scientific and technical",452
+48,Real estate,97
+48,Transport and storage,198
+48,Unclassified,16
+48,Water supply and waste management,9
+48,Wholesale and retail trade,942
+49,Administrative and support services,13
+49,Arts and recreation,7
+49,Construction,60
+49,Education,2
+49,Finance and insurance,28
+49,Food and beverage,24
+49,Health and social services,2
+49,Information and communications,8
+49,Manufacturing,41
+49,Other services,4
+49,"Professional, scientific and technical",18
+49,Real estate,9
+49,Transport and storage,36
+49,Wholesale and retail trade,67
+50,Accommodation and food services,6
+50,Administrative and support services,107
+50,Arts and recreation,18
+50,Construction,182
+50,Education,96
+50,"Electricity, gas and air-con supply",4
+50,Finance and insurance,131
+50,Food and beverage,152
+50,Health and social services,36
+50,Information and communications,148
+50,Manufacturing,261
+50,Other services,78
+50,"Professional, scientific and technical",357
+50,Real estate,58
+50,Transport and storage,126
+50,Unclassified,15
+50,Water supply and waste management,3
+50,Wholesale and retail trade,569
+51,Accommodation and food services,1
+51,Administrative and support services,292
+51,Arts and recreation,84
+51,Construction,262
+51,Education,329
+51,"Electricity, gas and air-con supply",2
+51,Finance and insurance,153
+51,Food and beverage,299
+51,Health and social services,113
+51,Households as employers,2
+51,Information and communications,462
+51,Manufacturing,215
+51,Other services,260
+51,"Professional, scientific and technical",808
+51,Real estate,60
+51,Transport and storage,285
+51,Unclassified,17
+51,Water supply and waste management,4
+51,Wholesale and retail trade,1287
+52,Accommodation and food services,6
+52,Administrative and support services,663
+52,Arts and recreation,207
+52,Construction,1149
+52,Education,808
+52,"Electricity, gas and air-con supply",14
+52,Finance and insurance,357
+52,Food and beverage,706
+52,Health and social services,268
+52,Information and communications,963
+52,Manufacturing,839
+52,Other services,891
+52,"Professional, scientific and technical",1723
+52,Real estate,169
+52,Transport and storage,741
+52,Unclassified,17
+52,Water supply and waste management,18
+52,Wholesale and retail trade,3522
+53,Accommodation and food services,34
+53,Administrative and support services,915
+53,Arts and recreation,196
+53,Construction,1895
+53,Education,848
+53,"Electricity, gas and air-con supply",15
+53,Finance and insurance,979
+53,Food and beverage,1109
+53,Health and social services,324
+53,Households as employers,2
+53,Information and communications,1204
+53,Manufacturing,1116
+53,Other services,1124
+53,"Professional, scientific and technical",2228
+53,Real estate,378
+53,Transport and storage,897
+53,Unclassified,29
+53,Water supply and waste management,30
+53,Wholesale and retail trade,4416
+54,Accommodation and food services,10
+54,Administrative and support services,475
+54,Arts and recreation,135
+54,Construction,673
+54,Education,567
+54,"Electricity, gas and air-con supply",7
+54,Finance and insurance,315
+54,Food and beverage,532
+54,Health and social services,127
+54,Households as employers,2
+54,Information and communications,754
+54,Manufacturing,363
+54,Other services,478
+54,"Professional, scientific and technical",1379
+54,Real estate,144
+54,Transport and storage,449
+54,Unclassified,13
+54,Water supply and waste management,11
+54,Wholesale and retail trade,2294
+55,Accommodation and food services,8
+55,Administrative and support services,277
+55,Arts and recreation,115
+55,Construction,425
+55,Education,312
+55,"Electricity, gas and air-con supply",3
+55,Finance and insurance,311
+55,Food and beverage,348
+55,Health and social services,151
+55,Information and communications,367
+55,Manufacturing,220
+55,Other services,389
+55,"Professional, scientific and technical",860
+55,Real estate,144
+55,Transport and storage,216
+55,Unclassified,6
+55,Water supply and waste management,9
+55,Wholesale and retail trade,1385
+56,Accommodation and food services,11
+56,Administrative and support services,665
+56,Arts and recreation,114
+56,Construction,1659
+56,Education,424
+56,"Electricity, gas and air-con supply",13
+56,Finance and insurance,473
+56,Food and beverage,655
+56,Health and social services,274
+56,Households as employers,3
+56,Information and communications,867
+56,Manufacturing,1203
+56,Other services,1083
+56,"Professional, scientific and technical",1527
+56,Public administration,1
+56,Real estate,157
+56,Transport and storage,550
+56,Unclassified,22
+56,Water supply and waste management,22
+56,Wholesale and retail trade,3602
+57,Accommodation and food services,22
+57,Administrative and support services,767
+57,Arts and recreation,171
+57,Construction,1010
+57,Education,851
+57,"Electricity, gas and air-con supply",17
+57,Finance and insurance,969
+57,Food and beverage,633
+57,Health and social services,439
+57,Households as employers,1
+57,Information and communications,1660
+57,Manufacturing,619
+57,Other services,862
+57,"Professional, scientific and technical",2759
+57,Public administration,1
+57,Real estate,322
+57,Transport and storage,530
+57,Unclassified,20
+57,Water supply and waste management,13
+57,Wholesale and retail trade,3793
+58,Accommodation and food services,4
+58,Administrative and support services,182
+58,Arts and recreation,59
+58,Construction,157
+58,Education,320
+58,"Electricity, gas and air-con supply",1
+58,Finance and insurance,213
+58,Food and beverage,118
+58,Health and social services,111
+58,Households as employers,2
+58,Information and communications,122
+58,Manufacturing,74
+58,Other services,187
+58,"Professional, scientific and technical",395
+58,Real estate,73
+58,Transport and storage,43
+58,Unclassified,6
+58,Water supply and waste management,5
+58,Wholesale and retail trade,530
+59,Accommodation and food services,4
+59,Administrative and support services,119
+59,Arts and recreation,53
+59,Construction,113
+59,Education,236
+59,"Electricity, gas and air-con supply",2
+59,Finance and insurance,238
+59,Food and beverage,142
+59,Health and social services,112
+59,Information and communications,271
+59,Manufacturing,126
+59,Other services,143
+59,"Professional, scientific and technical",643
+59,Public administration,1
+59,Real estate,82
+59,Transport and storage,67
+59,Unclassified,15
+59,Water supply and waste management,6
+59,Wholesale and retail trade,708
+60,Accommodation and food services,16
+60,Administrative and support services,712
+60,Arts and recreation,111
+60,Construction,1284
+60,Education,480
+60,"Electricity, gas and air-con supply",18
+60,Finance and insurance,1185
+60,Food and beverage,487
+60,Health and social services,272
+60,Information and communications,1317
+60,Manufacturing,1070
+60,Other services,556
+60,"Professional, scientific and technical",2348
+60,Public administration,1
+60,Real estate,240
+60,Transport and storage,1061
+60,Unclassified,45
+60,Water supply and waste management,44
+60,Wholesale and retail trade,4332
+61,Accommodation and food services,1
+61,Administrative and support services,128
+61,Arts and recreation,23
+61,Construction,200
+61,Education,60
+61,"Electricity, gas and air-con supply",2
+61,Finance and insurance,160
+61,Food and beverage,239
+61,Health and social services,27
+61,Information and communications,125
+61,Manufacturing,433
+61,Other services,149
+61,"Professional, scientific and technical",296
+61,Public administration,1
+61,Real estate,39
+61,Transport and storage,256
+61,Unclassified,18
+61,Water supply and waste management,14
+61,Wholesale and retail trade,969
+62,Accommodation and food services,13
+62,Administrative and support services,307
+62,Arts and recreation,9
+62,Construction,1520
+62,Education,52
+62,"Electricity, gas and air-con supply",16
+62,Finance and insurance,423
+62,Food and beverage,207
+62,Health and social services,18
+62,Information and communications,155
+62,Manufacturing,1980
+62,Other services,258
+62,"Professional, scientific and technical",605
+62,Real estate,86
+62,Transport and storage,588
+62,Unclassified,19
+62,Water supply and waste management,75
+62,Wholesale and retail trade,1576
+63,Accommodation and food services,9
+63,Administrative and support services,164
+63,Arts and recreation,18
+63,Construction,604
+63,Education,55
+63,"Electricity, gas and air-con supply",8
+63,Finance and insurance,351
+63,Food and beverage,144
+63,Health and social services,4
+63,Information and communications,83
+63,Manufacturing,1414
+63,Other services,57
+63,"Professional, scientific and technical",431
+63,Real estate,92
+63,Transport and storage,268
+63,Unclassified,15
+63,Water supply and waste management,85
+63,Wholesale and retail trade,1026
+64,Accommodation and food services,4
+64,Administrative and support services,427
+64,Arts and recreation,85
+64,Construction,675
+64,Education,405
+64,"Electricity, gas and air-con supply",4
+64,Finance and insurance,227
+64,Food and beverage,554
+64,Health and social services,156
+64,Information and communications,600
+64,Manufacturing,471
+64,Other services,615
+64,"Professional, scientific and technical",979
+64,Public administration,1
+64,Real estate,107
+64,Transport and storage,669
+64,Unclassified,24
+64,Water supply and waste management,21
+64,Wholesale and retail trade,2273
+65,Accommodation and food services,5
+65,Administrative and support services,690
+65,Arts and recreation,106
+65,Construction,1373
+65,Education,392
+65,"Electricity, gas and air-con supply",13
+65,Finance and insurance,408
+65,Food and beverage,549
+65,Health and social services,198
+65,Information and communications,795
+65,Manufacturing,856
+65,Other services,644
+65,"Professional, scientific and technical",1625
+65,Real estate,178
+65,Transport and storage,699
+65,Unclassified,23
+65,Water supply and waste management,36
+65,Wholesale and retail trade,3250
+66,Accommodation and food services,2
+66,Administrative and support services,73
+66,Arts and recreation,20
+66,Construction,116
+66,Education,88
+66,"Electricity, gas and air-con supply",1
+66,Finance and insurance,98
+66,Food and beverage,105
+66,Health and social services,28
+66,Information and communications,127
+66,Manufacturing,102
+66,Other services,56
+66,"Professional, scientific and technical",297
+66,Real estate,38
+66,Transport and storage,67
+66,Unclassified,3
+66,Water supply and waste management,3
+66,Wholesale and retail trade,438
+67,Accommodation and food services,1
+67,Administrative and support services,271
+67,Arts and recreation,78
+67,Construction,386
+67,Education,306
+67,"Electricity, gas and air-con supply",1
+67,Finance and insurance,184
+67,Food and beverage,281
+67,Health and social services,109
+67,Information and communications,388
+67,Manufacturing,272
+67,Other services,322
+67,"Professional, scientific and technical",751
+67,Real estate,94
+67,Transport and storage,428
+67,Unclassified,18
+67,Water supply and waste management,31
+67,Wholesale and retail trade,1357
+68,Administrative and support services,421
+68,Arts and recreation,92
+68,Construction,527
+68,Education,320
+68,"Electricity, gas and air-con supply",6
+68,Finance and insurance,162
+68,Food and beverage,409
+68,Health and social services,109
+68,Information and communications,509
+68,Manufacturing,318
+68,Other services,429
+68,"Professional, scientific and technical",850
+68,Public administration,2
+68,Real estate,75
+68,Transport and storage,523
+68,Unclassified,16
+68,Water supply and waste management,8
+68,Wholesale and retail trade,1785
+69,Administrative and support services,64
+69,Arts and recreation,11
+69,Construction,75
+69,Education,42
+69,Finance and insurance,25
+69,Food and beverage,75
+69,Health and social services,8
+69,Information and communications,80
+69,Manufacturing,46
+69,Other services,60
+69,"Professional, scientific and technical",123
+69,Real estate,6
+69,Transport and storage,46
+69,Unclassified,61
+69,Water supply and waste management,1
+69,Wholesale and retail trade,238
+71,Administrative and support services,11
+71,Arts and recreation,2
+71,Construction,10
+71,Finance and insurance,4
+71,Food and beverage,4
+71,Manufacturing,5
+71,Other services,3
+71,"Professional, scientific and technical",11
+71,Transport and storage,3
+71,Unclassified,46
+71,Water supply and waste management,3
+71,Wholesale and retail trade,34
+72,Accommodation and food services,4
+72,Administrative and support services,126
+72,Arts and recreation,11
+72,Construction,870
+72,Education,12
+72,"Electricity, gas and air-con supply",5
+72,Finance and insurance,107
+72,Food and beverage,187
+72,Health and social services,8
+72,Information and communications,62
+72,Manufacturing,469
+72,Other services,29
+72,"Professional, scientific and technical",229
+72,Real estate,40
+72,Transport and storage,89
+72,Unclassified,11
+72,Water supply and waste management,14
+72,Wholesale and retail trade,538
+73,Accommodation and food services,9
+73,Administrative and support services,1042
+73,Arts and recreation,179
+73,Construction,2663
+73,Education,685
+73,"Electricity, gas and air-con supply",18
+73,Finance and insurance,710
+73,Food and beverage,1288
+73,Health and social services,230
+73,Households as employers,2
+73,Information and communications,1322
+73,Manufacturing,1784
+73,Other services,1082
+73,"Professional, scientific and technical",2380
+73,Real estate,327
+73,Transport and storage,1068
+73,Unclassified,52
+73,Water supply and waste management,33
+73,Wholesale and retail trade,5197
+75,Accommodation and food services,9
+75,Administrative and support services,579
+75,Arts and recreation,91
+75,Construction,2283
+75,Education,283
+75,"Electricity, gas and air-con supply",13
+75,Finance and insurance,401
+75,Food and beverage,1021
+75,Health and social services,82
+75,Information and communications,881
+75,Manufacturing,1616
+75,Other services,468
+75,"Professional, scientific and technical",1376
+75,Real estate,161
+75,Transport and storage,517
+75,Unclassified,24
+75,Water supply and waste management,45
+75,Wholesale and retail trade,3210
+76,Accommodation and food services,4
+76,Administrative and support services,764
+76,Arts and recreation,166
+76,Construction,1671
+76,Education,592
+76,"Electricity, gas and air-con supply",8
+76,Finance and insurance,294
+76,Food and beverage,728
+76,Health and social services,239
+76,Households as employers,2
+76,Information and communications,905
+76,Manufacturing,871
+76,Other services,962
+76,"Professional, scientific and technical",1475
+76,Real estate,142
+76,Transport and storage,785
+76,Unclassified,22
+76,Water supply and waste management,27
+76,Wholesale and retail trade,3718
+77,Administrative and support services,10
+77,Arts and recreation,1
+77,Construction,26
+77,Education,10
+77,Finance and insurance,10
+77,Food and beverage,20
+77,Information and communications,8
+77,Manufacturing,3
+77,Other services,11
+77,"Professional, scientific and technical",22
+77,Real estate,9
+77,Transport and storage,4
+77,Wholesale and retail trade,40
+78,Accommodation and food services,6
+78,Administrative and support services,155
+78,Arts and recreation,46
+78,Construction,423
+78,Education,90
+78,"Electricity, gas and air-con supply",1
+78,Finance and insurance,269
+78,Food and beverage,139
+78,Health and social services,40
+78,Information and communications,192
+78,Manufacturing,175
+78,Other services,97
+78,"Professional, scientific and technical",415
+78,Public administration,1
+78,Real estate,99
+78,Transport and storage,109
+78,Unclassified,10
+78,Water supply and waste management,5
+78,Wholesale and retail trade,912
+79,Accommodation and food services,3
+79,Administrative and support services,182
+79,Arts and recreation,45
+79,Construction,249
+79,Education,155
+79,"Electricity, gas and air-con supply",1
+79,Finance and insurance,97
+79,Food and beverage,232
+79,Health and social services,60
+79,Information and communications,241
+79,Manufacturing,157
+79,Other services,174
+79,"Professional, scientific and technical",467
+79,Real estate,41
+79,Transport and storage,249
+79,Unclassified,16
+79,Water supply and waste management,5
+79,Wholesale and retail trade,794
+80,Accommodation and food services,1
+80,Administrative and support services,65
+80,Arts and recreation,22
+80,Construction,106
+80,Education,80
+80,Finance and insurance,149
+80,Food and beverage,76
+80,Health and social services,45
+80,Information and communications,124
+80,Manufacturing,64
+80,Other services,62
+80,"Professional, scientific and technical",314
+80,Real estate,46
+80,Transport and storage,46
+80,Unclassified,3
+80,Water supply and waste management,5
+80,Wholesale and retail trade,367
+81,Accommodation and food services,6
+81,Administrative and support services,17
+81,Arts and recreation,3
+81,Construction,1
+81,Education,4
+81,Finance and insurance,39
+81,Food and beverage,32
+81,Information and communications,11
+81,Manufacturing,7
+81,Other services,9
+81,"Professional, scientific and technical",10
+81,Real estate,2
+81,Transport and storage,270
+81,Wholesale and retail trade,38
+82,Administrative and support services,379
+82,Arts and recreation,112
+82,Construction,483
+82,Education,398
+82,"Electricity, gas and air-con supply",6
+82,Finance and insurance,181
+82,Food and beverage,531
+82,Health and social services,103
+82,Households as employers,1
+82,Information and communications,741
+82,Manufacturing,292
+82,Other services,429
+82,"Professional, scientific and technical",988
+82,Real estate,59
+82,Transport and storage,458
+82,Unclassified,18
+82,Water supply and waste management,7
+82,Wholesale and retail trade,1747

@@ -1,0 +1,64 @@
+name: monthly refresh
+
+# ACRA republishes its register mid-month. On the 20th, land whatever changed, check it,
+# fold it into the entity history, and commit the refreshed result tables.
+# The history (state/*.parquet) is too big for git, so it lives as assets on a
+# GitHub release tagged "state" and is restored at the start of each run.
+
+on:
+  schedule:
+    - cron: "0 22 19 * *"   # 06:00 on the 20th, Singapore time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Restore history from the "state" release
+        run: |
+          mkdir -p state data
+          if gh release view state >/dev/null 2>&1; then
+            gh release download state --dir state --pattern '*.parquet'
+            gh release download state --dir data --pattern 'manifest.json' || true
+          else
+            echo "No state release yet: this run starts the history."
+          fi
+
+      - name: Run the pipeline
+        run: python -m pulse run
+
+      - name: Save history to the "state" release
+        run: |
+          gh release view state >/dev/null 2>&1 || \
+            gh release create state --title "Pipeline state" \
+              --notes "Entity history (SCD2) and download manifest, updated by the monthly refresh. Not a software release."
+          gh release upload state state/entity_history.parquet state/history_runs.parquet data/manifest.json --clobber
+
+      - name: Commit refreshed results
+        run: |
+          python scripts/charts.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add results docs
+          if git diff --cached --quiet; then
+            echo "No change in results."
+          else
+            git commit -m "Monthly refresh: results for the latest ACRA release"
+            git push
+          fi

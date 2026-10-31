@@ -1,0 +1,22 @@
+section,division_from,division_to,section_name
+A,01,03,Agriculture and fishing
+B,08,09,Mining and quarrying
+C,10,33,Manufacturing
+D,35,35,"Electricity, gas and air-con supply"
+E,36,39,Water supply and waste management
+F,41,43,Construction
+G,46,47,Wholesale and retail trade
+H,49,53,Transport and storage
+I,55,56,Accommodation and food services
+J,58,63,Information and communications
+K,64,66,Finance and insurance
+L,68,68,Real estate
+M,69,75,"Professional, scientific and technical"
+N,77,82,Administrative and support services
+O,84,84,Public administration
+P,85,85,Education
+Q,86,88,Health and social services
+R,90,93,Arts and recreation
+S,94,96,Other services
+T,97,98,Households as employers
+U,99,99,Extra-territorial organisations
